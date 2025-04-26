@@ -1,0 +1,8 @@
+1. create main folder in it write backend and in it write index.js for backend
+2. for frontend using vite app or react app
+
+3. backend is index.js
+4. frontend is App.js
+
+5. connecting frontend(react.js) with backend(express.js)
+proxy add in frontend package.json before dependencies
